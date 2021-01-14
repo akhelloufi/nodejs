@@ -1,6 +1,6 @@
- function test(m){
+ var test =(m)=>{
 
-   alert('salam alikom valeur='+m);
+  return m++;//ok
  }
    
 console.log(window.location)
